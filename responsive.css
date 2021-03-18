@@ -610,6 +610,10 @@ opacity: 0;
     .header-section a {
         font-size: 15px;
     }
+    .blog-item-content p {
+	font-size: 26px;
+	font-weight: 320;
+}
 }
 
 @media(max-width:480px){
